@@ -1,18 +1,18 @@
- /*pattern printing 8
+ /*pattern printing 
  
 
-8. Diamond Pattern
+15. Hourglass Pattern
 Input: 5 Output:
 
-    *
-   ***
-  *****
- *******
 *********
  *******
   *****
    ***
     *
+   ***
+  *****
+ *******
+*********
 
 
 
@@ -23,22 +23,7 @@ Input: 5 Output:
    /*pattern printing 8
  
 
-8. Diamond Pattern
-Input: 5 Output:
 
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
-
-
-
-*/
 
 #include<bits/stdc++.h>
 
@@ -85,4 +70,5 @@ int main()
   
    
     return 0;
+
 }
